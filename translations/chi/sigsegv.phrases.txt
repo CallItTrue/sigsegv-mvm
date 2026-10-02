@@ -50,6 +50,11 @@
 	{
 		"chi"		"观察者："
 	}
+	"STV not enabled"
+	{
+		"chi"		"服务器未启用 SourceTV。"
+	}
+
 	"Tier is closed"
 	{
 		"#format"	"{1:d}"
@@ -79,10 +84,6 @@
 	{
 		"#format"	"{1:s}"
 		"chi"		"与 {1} 升级互斥"
-	}
-	"This server uses custom upgrades. Make sure you have enabled downloads in options (Download all files or Don't download sound files)"
-	{
-		"chi"		"本任务使用自定义商店文件，请开启服务器定制内容下载功能（允许所有来自服务器的定制内容或不下载定制声音）"
 	}
 	"Custom upgrades notify"
 	{
@@ -186,9 +187,9 @@
 	{
 		"chi"		"人物属性"
 	}
-	"Character Attributes:"
+	"Character attributes:"
 	{
-		"chi"		"人物属性"
+		"chi"		"人物属性："
 	}	
 	"The Upgrade Station is disabled!"
 	{
@@ -510,5 +511,25 @@
 	"Stickies"
 	{
 		"chi" "黏性炸弹"
+	}
+
+	"Free weapons menu tag"
+	{
+		"chi" "[免费武器菜单]"
+	}
+
+	"Free weapons will no longer show a menu"
+	{
+		"chi" "选择免费武器时不会显示装备菜单。"
+	}
+	
+	"Free weapons will now show a equip menu"
+	{
+		"chi" "选择免费武器时会显示装备菜单。"
+	}
+
+	"This command can not be used"
+	{
+		"chi" "指令暂不可用"
 	}
 }

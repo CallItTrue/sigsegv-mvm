@@ -132,10 +132,6 @@
 	{
  	 	"zho" 	"智能彈藥"
 	}
-	//"mod projectile heat aim error"
-	//{
- 	// 	"zho" 	"智能彈藥"
-	//}
 	"mult dmg vs same class"
 	{
  	 	"zho" 	"(+-)%p%對同兵種敵人的傷害"
@@ -215,6 +211,10 @@
 	"sniper beep with enemy under crosshair"
 	{
  	 	"zho" 	"瞄準敵人時：播放提示音"
+	}
+	"mod projectile heat aim error"
+	{
+ 	 	"zho" 	"智慧彈藥"
 	}
 	"arrow mastery"
 	{
@@ -692,21 +692,9 @@
 	{
  	 	"zho" 	"反射彈藥射向噴火兵"
 	}
-	"stay after regenerate"
-	{
- 	 	"zho" 	"保持到恢覆後"
-	}
 	"custom minigun spin sound"
 	{
  	 	"zho" 	"%d"
-	}
-	"stomp player time"
-	{
- 	 	"zho" 	"對踩到的敵人造成傷害的時長"
-	}
-	"arrow hit kill time"
-	{
- 	 	"zho" 	"弓箭擊中擊殺時間"
 	}
 	"mod dispenser cost"
 	{
@@ -716,10 +704,10 @@
 	{
  	 	"zho" 	"(+-)%p%步哨槍成本"
 	}
-	//"add cond when active"
-	//{
- 	// 	"zho" 	"增加 cond"
-	//}
+	"add cond when active"
+	{
+ 	 	"zho" 	"增加 cond"
+	}
 	"penetrate teammates"
 	{
  	 	"zho" 	"穿透隊友"
@@ -736,17 +724,9 @@
 	{
  	 	"zho" 	"自定義武器名"
 	}
-	"add cond when active"
-	{
- 	 	"zho" 	"激活時增加cond"
-	}
 	"mult step height"
 	{
  	 	"zho" 	"(+-)%p%步伐高度"
-	}
-	"ignore player clip"
-	{
- 	 	"zho" 	"無視玩家阻擋"
 	}
 	"allow bunny hop"
 	{
@@ -1052,18 +1032,6 @@
 	{
  	 	"zho" 	"步哨火箭武器"
 	}
-	//"custom sentry model"
-	//{
- 	// 	"zho" 	"自定義步哨槍模型"
-	//}
-	//"custom dispenser model"
-	//{
- 	// 	"zho" 	"自定義補給器模型"
-	//}
-	//"custom teleporter model"
-	//{
- 	// 	"zho" 	"自定義傳送器模型"
-	//}
 	"mult sentry rocket ammo"
 	{
  	 	"zho" 	"(+-)%p%步哨槍火箭彈藥"
@@ -1092,22 +1060,6 @@
 	{
  	 	"zho" 	"滯空時：(+-)%p%傷害"
 	}
-	//"hidden string attribute 1"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"hidden string attribute 2"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"hidden string attribute 3"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"hidden string attribute 4"
-	//{
- 	// 	"zho" 	""
-	//}
 	"medigun keep charged effect"
 	{
  	 	"zho" 	""
@@ -1136,14 +1088,6 @@
 	{
  	 	"zho" 	"只能對友軍使用"
 	}
-	//"custom sapper model"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"custom sapper sound"
-	//{
- 	// 	"zho" 	""
-	//}
 	"no clip"
 	{
  	 	"zho" 	"Place on allies"
@@ -1160,10 +1104,6 @@
 	{
  	 	"zho" 	"近距離交戰時：最高(+-)%p%傷害"
 	}
-	//"mult dmg before distance specify"
-	//{
- 	// 	"zho" 	""
-	//}
 	"mult_item_meter_charge_rate 2"
 	{
  	 	"zho" 	"(+-)%p%充能速率"
@@ -1196,22 +1136,10 @@
 	{
  	 	"zho" 	"Arrows are always lit"
 	}
-	//"crit on cond"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"minicrit on cond"
-	//{
- 	// 	"zho" 	""
-	//}
 	"add attributes when active"
 	{
  	 	"zho" 	"箭矢永遠燃燒"
 	}
-	//"radial cond"
-	//{
- 	// 	"zho" 	""
-	//}
 	"mult explosion radius direct hit"
 	{
  	 	"zho" 	"直接命中時：(+-)%p%爆炸範圍"
@@ -1224,10 +1152,6 @@
 	{
  	 	"zho" 	"直接命中時：(+-)%p%傷害"
 	}
-	//"explosion particle on direct hit"
-	//{
- 	// 	"zho" 	""
-	//}
 	"cannot upgrade bomb"
 	{
  	 	"zho" 	"無法獲得炸彈增益"
@@ -1304,22 +1228,6 @@
 	{
  	 	"zho" 	"無視敵我施加效果"
 	}
-	//"use human voice"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"use robot voice"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"alt fire attack"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"alt fire attributes"
-	//{
- 	// 	"zho" 	""
-	//}
 	"no revive"
 	{
  	 	"zho" 	"死後無法人工覆活"
@@ -1360,30 +1268,10 @@
 	{
  	 	"zho" 	"采用爆炸開火模式"
 	}
-	//"projectile hit radius"
-	//{
- 	// 	"zho" 	""
-	//}
 	"noclip projectiles"
 	{
  	 	"zho" 	"彈藥可穿墻"
 	}
-	//"projectile health"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"projectile take damage type"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"projectile take damage time"
-	//{
- 	// 	"zho" 	""
-	//}
-	//"projectile explode on destroy"
-	//{
- 	// 	"zho" 	""
-	//}
 	"projectile explode time"
 	{
  	 	"zho" 	"%d秒後爆炸"
@@ -1436,28 +1324,100 @@
 	{
 		"zho" "%d"
 	}
-	"spread angle pattern"
+	"chain explosion"
 	{
- 	 	"zho" 	""
+		"zho" "可被其他爆炸引爆"
 	}
-	"spread offset pattern"
+	"proximity bomb"
 	{
- 	 	"zho" 	""
+		"zho" "靠近敵人時引爆"
 	}
-	"proj attribute pattern"
+	"projectile radius damage"
 	{
- 	 	"zho" 	""
+		"zho" "對範圍內敵人造成%d點傷害"
 	}
-	"shoot pattern reset time"
+	"projectile radius damage time"
 	{
- 	 	"zho" 	""
+		"zho" ""
 	}
-	"shoot pattern no rollback"
+	"projectile radius damage radius"
 	{
- 	 	"zho" 	""
+		"zho" ""
 	}
-	"custom damage type override"
+	"projectile radius damage hit limit"
 	{
- 	 	"zho" 	""
+		"zho" ""
+	}
+	"projectile radius knockback"
+	{
+		"zho" ""
+	}
+	"projectile radius knockback time"
+	{
+		"zho" ""
+	}
+	"projectile radius knockback radius"
+	{
+		"zho" ""
+	}
+	"projectile radius knockback up"
+	{
+		"zho" ""
+	}
+	"projectile radius knockback side"
+	{
+		"zho" ""
+	}
+	"projectile radius knockback forward"
+	{
+		"zho" ""
+	}
+	"projectile radius knockback hit limit"
+	{
+		"zho" ""
+	}
+	"mult parachute xy speed"
+	{
+		"zho" "降落傘部署時：(+-)%p%移動速度"
+	}
+	"mult parachute z speed"
+	{
+		"zho" "降落傘部署時：(+-)%p%下降速度"
+	}
+	"mult parachute air control"
+	{
+		"zho" "降落傘部署時：(+-)%p%空中控制力"
+	}
+	"mult grappling hook speed"
+	{
+		"zho" "(+-)%p%勾爪牽引速度"
+	}
+	"mult grappling hook pull target"
+	{
+		"zho" "勾爪拖曳敵人"
+	}
+	"grappling hook pull time"
+	{
+		"zho" "勾爪作用時間為%d秒"
+	}
+	"mult charging move speed"
+	{
+		"zho" "衝刺時：(+-)%p%移動速度"
+	}
+	"player convar override"
+	{
+		"zho" ""
+	}
+	"player convar override 2"
+	{
+		"zho" ""
+	}
+	"player convar override 3"
+	{
+		"zho" ""
+	}
+	"player convar override 4"
+	{
+		"zho" ""
 	}
 }
