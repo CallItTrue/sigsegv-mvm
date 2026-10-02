@@ -132,10 +132,6 @@
 	{
  	 	"chi" 	"智能弹药"
 	}
-	//"mod projectile heat aim error"
-	//{
- 	// 	"chi" 	"智能弹药"
-	//}
 	"mult dmg vs same class"
 	{
  	 	"chi" 	"(+-)%p%对同兵种敌人的伤害"
@@ -215,6 +211,10 @@
 	"sniper beep with enemy under crosshair"
 	{
  	 	"chi" 	"瞄准敌人时：播放提示音"
+	}
+	"mod projectile heat aim error"
+	{
+ 	 	"chi" 	"智能弹药"
 	}
 	"arrow mastery"
 	{
@@ -692,21 +692,9 @@
 	{
  	 	"chi" 	"反射弹药射向喷火兵"
 	}
-	"stay after regenerate"
-	{
- 	 	"chi" 	"保持到恢复后"
-	}
 	"custom minigun spin sound"
 	{
  	 	"chi" 	"%d"
-	}
-	"stomp player time"
-	{
- 	 	"chi" 	"对踩到的敌人造成伤害的时长"
-	}
-	"arrow hit kill time"
-	{
- 	 	"chi" 	"弓箭击中击杀时间"
 	}
 	"mod dispenser cost"
 	{
@@ -716,10 +704,10 @@
 	{
  	 	"chi" 	"(+-)%p%步哨枪成本"
 	}
-	//"add cond when active"
-	//{
- 	// 	"chi" 	"增加 cond"
-	//}
+	"add cond when active"
+	{
+ 	 	"chi" 	"增加 cond"
+	}
 	"penetrate teammates"
 	{
  	 	"chi" 	"穿透队友"
@@ -736,17 +724,9 @@
 	{
  	 	"chi" 	"自定义武器名"
 	}
-	"add cond when active"
-	{
- 	 	"chi" 	"激活时增加cond"
-	}
 	"mult step height"
 	{
  	 	"chi" 	"(+-)%p%步伐高度"
-	}
-	"ignore player clip"
-	{
- 	 	"chi" 	"无视玩家阻挡"
 	}
 	"allow bunny hop"
 	{
@@ -1052,18 +1032,6 @@
 	{
  	 	"chi" 	"步哨火箭武器"
 	}
-	//"custom sentry model"
-	//{
- 	// 	"chi" 	"自定义步哨枪模型"
-	//}
-	//"custom dispenser model"
-	//{
- 	// 	"chi" 	"自定义补给器模型"
-	//}
-	//"custom teleporter model"
-	//{
- 	// 	"chi" 	"自定义传送器模型"
-	//}
 	"mult sentry rocket ammo"
 	{
  	 	"chi" 	"(+-)%p%步哨枪火箭弹药"
@@ -1092,22 +1060,6 @@
 	{
  	 	"chi" 	"滞空时：(+-)%p%伤害"
 	}
-	//"hidden string attribute 1"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"hidden string attribute 2"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"hidden string attribute 3"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"hidden string attribute 4"
-	//{
- 	// 	"chi" 	""
-	//}
 	"medigun keep charged effect"
 	{
  	 	"chi" 	""
@@ -1136,14 +1088,6 @@
 	{
  	 	"chi" 	"只能对友军使用"
 	}
-	//"custom sapper model"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"custom sapper sound"
-	//{
- 	// 	"chi" 	""
-	//}
 	"no clip"
 	{
  	 	"chi" 	"Place on allies"
@@ -1160,10 +1104,6 @@
 	{
  	 	"chi" 	"近距离交战时：最高(+-)%p%伤害"
 	}
-	//"mult dmg before distance specify"
-	//{
- 	// 	"chi" 	""
-	//}
 	"mult_item_meter_charge_rate 2"
 	{
  	 	"chi" 	"(+-)%p%充能速率"
@@ -1196,22 +1136,10 @@
 	{
  	 	"chi" 	"Arrows are always lit"
 	}
-	//"crit on cond"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"minicrit on cond"
-	//{
- 	// 	"chi" 	""
-	//}
 	"add attributes when active"
 	{
  	 	"chi" 	"箭矢永远燃烧"
 	}
-	//"radial cond"
-	//{
- 	// 	"chi" 	""
-	//}
 	"mult explosion radius direct hit"
 	{
  	 	"chi" 	"直接命中时：(+-)%p%爆炸范围"
@@ -1224,10 +1152,6 @@
 	{
  	 	"chi" 	"直接命中时：(+-)%p%伤害"
 	}
-	//"explosion particle on direct hit"
-	//{
- 	// 	"chi" 	""
-	//}
 	"cannot upgrade bomb"
 	{
  	 	"chi" 	"无法获得炸弹增益"
@@ -1304,22 +1228,6 @@
 	{
  	 	"chi" 	"无视敌我施加效果"
 	}
-	//"use human voice"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"use robot voice"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"alt fire attack"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"alt fire attributes"
-	//{
- 	// 	"chi" 	""
-	//}
 	"no revive"
 	{
  	 	"chi" 	"死后无法人工复活"
@@ -1360,41 +1268,13 @@
 	{
  	 	"chi" 	"采用爆炸开火模式"
 	}
-	//"projectile hit radius"
-	//{
- 	// 	"chi" 	""
-	//}
 	"noclip projectiles"
 	{
  	 	"chi" 	"弹药可穿墙"
 	}
-	//"projectile health"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"projectile take damage type"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"projectile take damage time"
-	//{
- 	// 	"chi" 	""
-	//}
-	//"projectile explode on destroy"
-	//{
- 	// 	"chi" 	""
-	//}
 	"projectile explode time"
 	{
  	 	"chi" 	"%d秒后爆炸"
-	}
-	"shoot view punch angle"
-	{
- 	 	"chi" 	"武器有垂直后坐力"
-	}
-	"shoot view punch angle random"
-	{
- 	 	"chi" 	"武器有水平后坐力"
 	}
 	"custom item model attachment"
 	{
@@ -1408,10 +1288,6 @@
 	{
  	 	"chi" 	"melee cleave attack"
 	}
-	//"custom weapon deploy sound"
-	//{
- 	// 	"chi" 	""
-	//}
 	"custom item model attachment viewmodel"
 	{
  	 	"chi" 	"melee cleave attack"
@@ -1436,28 +1312,100 @@
 	{
 		"chi" "%d"
 	}
-	"spread angle pattern"
+	"chain explosion"
 	{
- 	 	"chi" 	""
+		"chi" "可被其他爆炸引爆"
 	}
-	"spread offset pattern"
+	"proximity bomb"
 	{
- 	 	"chi" 	""
+		"chi" "靠近敌人时引爆"
 	}
-	"proj attribute pattern"
+	"projectile radius damage"
 	{
- 	 	"chi" 	""
+		"chi" "对范围内敌人造成%d点伤害"
 	}
-	"shoot pattern reset time"
+	"projectile radius damage time"
 	{
- 	 	"chi" 	""
+		"chi" ""
 	}
-	"shoot pattern no rollback"
+	"projectile radius damage radius"
 	{
- 	 	"chi" 	""
+		"chi" ""
 	}
-	"custom damage type override"
+	"projectile radius damage hit limit"
 	{
- 	 	"chi" 	""
+		"chi" ""
+	}
+	"projectile radius knockback"
+	{
+		"chi" ""
+	}
+	"projectile radius knockback time"
+	{
+		"chi" ""
+	}
+	"projectile radius knockback radius"
+	{
+		"chi" ""
+	}
+	"projectile radius knockback up"
+	{
+		"chi" ""
+	}
+	"projectile radius knockback side"
+	{
+		"chi" ""
+	}
+	"projectile radius knockback forward"
+	{
+		"chi" ""
+	}
+	"projectile radius knockback hit limit"
+	{
+		"chi" ""
+	}
+	"mult parachute xy speed"
+	{
+		"chi" "降落伞部署时：(+-)%p%移动速度"
+	}
+	"mult parachute z speed"
+	{
+		"chi" "降落伞部署时：(+-)%p%下降速度"
+	}
+	"mult parachute air control"
+	{
+		"chi" "降落伞部署时：(+-)%p%空中控制力"
+	}
+	"mult grappling hook speed"
+	{
+		"chi" "(+-)%p%勾爪牵引速度"
+	}
+	"mult grappling hook pull target"
+	{
+		"chi" "勾爪拖拽敌人"
+	}
+	"grappling hook pull time"
+	{
+		"chi" "勾爪作用时间为%d秒"
+	}
+	"mult charging move speed"
+	{
+		"chi" "冲刺时：(+-)%p%移动速度"
+	}
+	"player convar override"
+	{
+		"chi" ""
+	}
+	"player convar override 2"
+	{
+		"chi" ""
+	}
+	"player convar override 3"
+	{
+		"chi" ""
+	}
+	"player convar override 4"
+	{
+		"chi" ""
 	}
 }

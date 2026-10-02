@@ -511,4 +511,24 @@
 	{
 		"zho" "黏性炸彈"
 	}
+
+	"Free weapons menu tag"
+	{
+		"zho" "[免費武器選單]"
+	}
+
+	"Free weapons will no longer show a menu"
+	{
+		"zho" "選擇免費武器時不會顯示裝備選單。"
+	}
+	
+	"Free weapons will now show a equip menu"
+	{
+		"zho" "選擇免費武器時會顯示裝備選單。"
+	}
+
+	"This command can not be used"
+	{
+		"zho" "指令暫不可用"
+	}
 }
